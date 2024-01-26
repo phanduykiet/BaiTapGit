@@ -6,12 +6,11 @@
         {
             int y = 4;
 
-            Console.Write("Nhap mot so nguyen: ");
-            int x = int.Parse(Console.ReadLine());
+            Console.Write("Nhap mot so nguyen n = ");
+            int z = y * 6;
 
-            Console.WriteLine("Phuong trinh tren");
-            int A = x * x + y * y * y * x * y;
-            Console.WriteLine(A);
+            int A = z * z + y * y * y * z * y;
+            Console.WriteLine("kq = ", A * 4);
         }
     }
 }
