@@ -27,3 +27,17 @@ D:\LapTrinhWin\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\refint\DemoBai1.dll
 D:\LapTrinhWin\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.pdb
 D:\LapTrinhWin\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.genruntimeconfig.cache
 D:\LapTrinhWin\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\ref\DemoBai1.dll
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\bin\Debug\net6.0\DemoBai1.exe
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\bin\Debug\net6.0\DemoBai1.deps.json
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\bin\Debug\net6.0\DemoBai1.runtimeconfig.json
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\bin\Debug\net6.0\DemoBai1.dll
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\bin\Debug\net6.0\DemoBai1.pdb
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.AssemblyInfoInputs.cache
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.AssemblyInfo.cs
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.csproj.CoreCompileInputs.cache
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.dll
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\refint\DemoBai1.dll
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.pdb
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\DemoBai1.genruntimeconfig.cache
+C:\Users\Kakashi\Downloads\3tren6\Windows\BaiTapGit\DemoBai1\DemoBai1\obj\Debug\net6.0\ref\DemoBai1.dll
