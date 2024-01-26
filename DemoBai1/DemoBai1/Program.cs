@@ -5,15 +5,11 @@
         static void Main(string[] args)
         {
             int x = 4;
-            int z = 5;
-
-            Console.Write("Nhap mot so nguyen: ");
+            Console.Write("Nhap mot so nguyen :");
             int y = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Phuong trinh");
-            
-            int A = x * x + y * y + z * 5;
-            Console.WriteLine(A);
+            int z = y * 6;
+            int A = (z * z + y * y * y * z * y) * 4;
+            Console.WriteLine("Phuong trinh co ket qua :" + A);
         }
     }
 }
