@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\new1\\DemoBai1\\DemoBai1\\DemoBai1.csproj": {}
+    "D:\\LapTrinhWin\\BaiTapGit\\DemoBai1\\DemoBai1\\DemoBai1.csproj": {}
   },
   "projects": {
-    "D:\\new1\\DemoBai1\\DemoBai1\\DemoBai1.csproj": {
+    "D:\\LapTrinhWin\\BaiTapGit\\DemoBai1\\DemoBai1\\DemoBai1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new1\\DemoBai1\\DemoBai1\\DemoBai1.csproj",
+        "projectUniqueName": "D:\\LapTrinhWin\\BaiTapGit\\DemoBai1\\DemoBai1\\DemoBai1.csproj",
         "projectName": "DemoBai1",
-        "projectPath": "D:\\new1\\DemoBai1\\DemoBai1\\DemoBai1.csproj",
+        "projectPath": "D:\\LapTrinhWin\\BaiTapGit\\DemoBai1\\DemoBai1\\DemoBai1.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\new1\\DemoBai1\\DemoBai1\\obj\\",
+        "outputPath": "D:\\LapTrinhWin\\BaiTapGit\\DemoBai1\\DemoBai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
