@@ -11,7 +11,10 @@
             int y = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Phuong trinh");
-            
+            if (20 > 18)
+            {
+                Console.WriteLine("20 is greater than 18");
+            }
             int A = x * x + y * y + z * 5;
             Console.WriteLine(A);
         }
