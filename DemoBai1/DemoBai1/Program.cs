@@ -4,13 +4,13 @@
     {
         static void Main(string[] args)
         {
-            int x = 4;
+            int y = 4;
 
             Console.Write("Nhap mot so nguyen: ");
-            int y = int.Parse(Console.ReadLine());
+            int x = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Phuong trinh");
-            int A = x * x + y * y;
+            Console.WriteLine("Phuong trinh tren");
+            int A = x * x + y * y * y * x * y;
             Console.WriteLine(A);
         }
     }
