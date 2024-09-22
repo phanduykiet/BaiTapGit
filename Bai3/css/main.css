@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.main {
+    margin: 0 auto;
+    height: 650px;
+    width: 1000px;
+    background-image: url(/Bai3/img/background.jpg);
+    background-repeat: repeat;
+}
+
+.wrap-logo-img {
+    margin: 0 auto;
+    width: 600px;
+}
+
+
+.wrap-car-link-home {
+    width: 500px;
+    margin: 0 auto;
+}

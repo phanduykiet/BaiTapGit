@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 1000px;
+    height:auto;
+    background-image: url(/Bai3/img/background.jpg);
+    background-repeat: repeat;
+}
+
+
+.header-wrap_img {
+    margin: 15px 10px;
+}
+
+
+.content {
+    color: #fff;
+    display: flex;
+    margin: 0 10px;
+}
+
+.sidebar {
+    padding-right: 15px;
+}
+
+.sidebar_wrap {
+    width: 180px;
+    overflow: hidden;
+    background-color: #fff;
+    border-width: 8px;
+    border-style: outset;
+    border-left-width: 6px;
+    border-top-width: 5px;
+}
+
+.sidebar_text-link {
+    margin: 10px 0px 18px 10px;
+    display: block;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.wrap-article_img-text {
+    display: flex;
+}
+
+.article {
+    padding-left: 15px;
+    border-left: 3px solid green;
+}
+
+.article_title {
+    padding-left: 80px;
+    font-size: 30px;
+    background-color: green;
+    letter-spacing: 16px;
+    font-style: italic;
+}
+
+.article_title2 {
+    padding-left: 10px;
+    background-color: green;
+}
+
+.article_text {
+    margin: 20px 0;
+    font-size: 18px;
+    line-height: 20px;
+}
+.wrap-aritcle-text2 {
+    margin: 20px 0;
+    margin-left: 30px;
+}
+
+.article_text2 {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+
+.container-article_img {
+    margin-top: 20px;
+}
+
+.address_footer {
+    height: 50px;
+    margin-top: 20px;
+    padding-top: 5px;
+    border-top: 3px solid green;
+    color: #fff;
+}
+
+.wrap-address {
+    border-top: 3px solid green;
+}
+
+.address_text {
+    line-height: 50px;
+    font-size: 18px;
+    text-align: center;
+}
